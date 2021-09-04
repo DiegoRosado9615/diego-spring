@@ -9,6 +9,8 @@ public class SpringtestApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringtestApplication.class, args);
 		System.out.println("INICIANDO SPRING APP DIEGO");
+		System.out.println("Primer merge");
+		
 	}
 
 }
